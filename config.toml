@@ -1,5 +1,5 @@
 title = "Enya"
-baseURL = "https://cdohara.github.io"
+baseURL = "https://enya.bam.moe"
 theme = "dark-hugo-researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
