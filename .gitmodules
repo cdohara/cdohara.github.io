@@ -1,0 +1,3 @@
+[submodule "themes/dark-hugo-researcher"]
+	path = themes/dark-hugo-researcher
+	url = https://github.com/cdohara/dark-hugo-researcher.git
