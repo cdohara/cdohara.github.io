@@ -11,3 +11,7 @@ Everything about GNU/Linux is in this category.
 ## [Recipes](/recipes)
 
 Yummy stuff goes here!
+
+## [Music](/music)
+
+My interpretive ideas, reharmonization, performances, and compositions go here.
