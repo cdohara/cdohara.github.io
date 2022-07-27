@@ -37,7 +37,7 @@ googleAnalytics = ""  # add your tracking id
     weight = 1
   [[menu.main]]
     name = "Knowledge"
-    url = "/knowledge"
+    url = "https://enyaknowledge.notion.site/Knowledge-ca5e28c4a20d40dc81bc73d2f6784d63"
     weight = 2
 
 [markup]
